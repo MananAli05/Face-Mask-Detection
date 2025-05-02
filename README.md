@@ -3,8 +3,11 @@ This project is designed to detect face masks in real-time using a live webcam f
 To run this project locally, you need to have the following Python libraries installed:
 
 Streamlit: For building the frontend application
+
 YOLOv8: For the face mask detection model
+
 OpenCV: For handling video streams
+
 Torch: PyTorch framework for YOLOv8
 ## Clone the Repository
 git clone https://github.com/MananAli05/Face-Mask-Detection.git
